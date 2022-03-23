@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI BMR TDEE</string>
+
+    <string-array name="Sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="Exercise">
+        <item>ออกกำลังกายน้อยมากหรือไม่ออกเลย</item>
+        <item>ออกกำลังกาย 1–3 ครั้งต่อสัปดาห์</item>
+        <item>ออกกำลังกาย 4–5 ครั้งต่อสัปดาห์</item>
+        <item>ออกกำลังกาย 6–7 ครั้งต่อสัปดาห์</item>
+        <item>ออกกำลังกายวันละ 2 ครั้งขึ้นไป</item>
+    </string-array>
+</resources>
